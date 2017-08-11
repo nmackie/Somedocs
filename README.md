@@ -24,7 +24,25 @@ Something is anything and anything can do whatever.
 
 ### What can't you do with something
 
-Nothing
+Nothing. There is literally nothing you can't do with something.
+
+---
+
+What you're favorite celebs say about something
+
+> I never leave the house without something
+
+Arnold Swartzenburger
+
+
+
+> I use something at sports all the time
+
+Patton Manly
+
+
+
+
 
 
 
