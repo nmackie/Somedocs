@@ -1,4 +1,4 @@
-# Document written in Typora
+# Document in Typora
 
 This is a document written with **Typora**
 
