@@ -1,6 +1,27 @@
-# Hello world
+# Document written in Typora
 
-This is a test of **Typora**
+This is a document written with **Typora**
+
+
+
+## What Typora has
+
+**Typora** has the basics.
+
+- Clean interface
+- Clickable interface for text formats
+
+
+
+## What Typora does not have
+
+Support for ebedded HTML
+
+
+
+##  Testing HTML
+
+
 
 ```html
 <table>
@@ -10,3 +31,9 @@ This is a test of **Typora**
 </table>
 ```
 
+
+
+```html
+<div>This is a div tag</div>
+```
+<div> this is a div written in source code mode.<div>
