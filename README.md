@@ -34,15 +34,11 @@ What you're favorite celebs say about something
 
 Arnold Swartzenburger
 
-
-
 > I use something at sports all the time
 
 Patton Manly
 
-
-
-
+---
 
 
 
